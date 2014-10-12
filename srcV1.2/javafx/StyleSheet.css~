@@ -1,0 +1,9 @@
+#Misspelled {
+  -fx-color: red;
+   -fx-text-fill: red;
+}
+
+#Dictionary {
+  -fx-font: bold;
+  -fx-text-fill: rgba(17, 145, 213);
+}
